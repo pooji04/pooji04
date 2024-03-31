@@ -26,6 +26,3 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-
-# 📊 Stats
-[![Poojitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=pooji04&show_icons=true&theme=radical)](https://github.com/poojitha/github-readme-stats)
