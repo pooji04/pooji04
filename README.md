@@ -1,7 +1,7 @@
-# 👋 Hello, I'm Poojitha!
+# Hello, I'm Poojitha!
 
-- 🔭 2nd Year student pursuing CSE-AI.</br>
-- 🌱 Currently learning about AI/ML and Front-End Development.</br>
+- 2nd Year student pursuing CSE-AI.</br>
+- Currently learning about AI/ML.</br>
 
 # 🖥️ Tech Stack
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
